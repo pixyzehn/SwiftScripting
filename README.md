@@ -35,6 +35,10 @@ Commander is a small Swift framework allowing you to craft beautiful command lin
 
 A pure Swift library for creating command-line interfaces. Using it, you can easily accept parameters & flags in your scripts, and print help messages & usage instructions for them.
 
+### [FengNiao](https://github.com/onevcat/FengNiao)
+
+A command line tool for cleaning unused resources in Xcode.
+
 ### [Files](https://github.com/johnsundell/files)
 
 A nicer way to handle files & folders in Swift. Files gives you an object-oriented API around the file system, making it easy to create, move, rename and handle files & folders in a script.
